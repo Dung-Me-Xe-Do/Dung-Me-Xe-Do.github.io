@@ -1,0 +1,10 @@
+<! DOCTYPE html> <html>
+<head> ‹meta charset="utf-8">
+‹title›Minh hoa liên kết</title›
+</head> < body>
+<h2x<a id="dautrang">Tiêu đề của trang</ax</h2>
+<p> ‹a href="https://abc. xyz"›Mở trang Alphabet</a><br> ‹a href="https://internet.com" target=" _blank" ›Mở trang internet. com</ax<br›
+‹a href="/tailieu/baihoc.pdf" ›Liên kết đến tệp baihoc.pdf‹/ax‹br> ‹a href="mailto:abc@gmail.com"› Liên kết đến địa chi email</ax<br› ‹a href="#"> Liên kết không dẫn đến trang nào</a><br> ‹a href="#dautrang"› Liên kết đến "Tiêu đề đầu trang</a></h2>
+</p>
+</body>
+</html>
